@@ -34,8 +34,23 @@
                         <ul class="dropdown-menu  dropdown-menu-dark "id="dropwdownRevision" style="margin: 0;">
                             <!-- <h6 class="dropdown-header">Información</h6> -->
                             <li>
-                                <a class="dropdown-item nav-link text-white " href="/aplicaciones/nueva"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>Subitem</a>
+                                <a class="dropdown-item nav-link text-white " href="/tareados/usuario"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>Usuario</a>
                             </li>
+
+                            <li>
+                                <a class="dropdown-item nav-link text-white " href="/tareados/aplicacion"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>Aplicacion</a>
+                            </li>
+                            
+                            <li>
+                                <a class="dropdown-item nav-link text-white " href="/tareados/rol"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>Rolres</a>
+                            </li>
+                            
+                            <li>
+                                <a class="dropdown-item nav-link text-white " href="/tareados/permiso"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>Permisos</a>
+                            </li>
+                        
+                        
+                        
                         
                     
                         
